@@ -1,0 +1,8 @@
+{
+  "name": "Future Clinic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "afeba142"
+}
